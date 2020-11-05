@@ -41,7 +41,7 @@ plot (size, iters)
 ```
 
 
-![png](assets\output_7_0.png)
+![png](assets/output_7_0.png)
 
 
 ## Task 2
@@ -77,7 +77,7 @@ plot (size, iters)
 ```
 
 
-![png](assets\output_11_0.png)
+![png](assets/output_11_0.png)
 
 
 In this function, the array is accessed only once, hence it is a constant time fucntion.
@@ -134,7 +134,7 @@ plot (size, iters)
     
 
 
-![png](assets\output_16_1.png)
+![png](assets/output_16_1.png)
 
 
 This is denoted as ***O(n<sup>2</sup>)***
@@ -204,7 +204,7 @@ plot (size, iters)
     
 
 
-![png](assets\output_21_1.png)
+![png](assets/output_21_1.png)
 
 
 This is denoted at ***O(n)***
@@ -287,7 +287,7 @@ plot (size, iters)
     
 
 
-![png](assets\output_26_1.png)
+![png](assets/output_26_1.png)
 
 
 This is represented as ***O(log <small>n</small>)***
